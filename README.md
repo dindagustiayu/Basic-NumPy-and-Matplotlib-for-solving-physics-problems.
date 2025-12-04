@@ -2,11 +2,11 @@
 This work aims to applying the concept of __NumPy array and Matplotlib__ for solving physics problems by Python 3 and Jupyter Notebook. There are some solutions for tasks in this Python code.
 
 ## P5.1 - Correct Einstein's mistakes
-Special relativity is the area of physics deling with incredibly large velocities. In special relitivity, the momentum _p_ of an object with velocity _v_(in m/s), and mass _m_ (in kg) is given as.
+Special relativity is the area of physics deling with incredibly large velocities. In special relativity, the momentum _p_ of an object with velocity _v_(in m/s), and mass _m_ (in kg) is given as.
 
 $p=m.v.\gamma, \gamma=\frac{1}{\sqrt{1-\frac{v^{2}}{c^{2}}}}$
 
-where c$\approx$ 300.000.000 m/s is the speed of light. The program below attempts to calculate the momentum of an object with speed equal to 1/3 the speed of light, and mass m = 0.14 kg. The program has many errors, and doesn't work. Copy and run the program. Correct the errors, and make it work like intended.
+where c $\approx300.000.000$ m/s is the speed of light. The program below attempts to calculate the momentum of an object with speed equal to 1/3 the speed of light, and mass m = 0.14 kg. The program has many errors, and doesn't work. Copy and run the program. Correct the errors, and make it work like intended.
 
 ## P5.2 - Rydberg's constant
 Rydberg's constant $R_{\infty}$ for a heavy atom is used in physics to calculate the wavelength to spectral lines. The constant has been found to have the following value:
@@ -14,11 +14,11 @@ Rydberg's constant $R_{\infty}$ for a heavy atom is used in physics to calculate
 $R_{\infty}=\frac{m_{e}e_{4}}{8\varepsilon_{0}{2}h^{3}c}$
 
 where,
-- $m_{e}=9.109 x 10^{-31}$ m is the mass of an electron
-- $e=1.602 x 10^{-19}$ C is the charge of a proton (also called the elementary charge)
-- $\varepsilon_{0}=8.854 x 10^{-12}C V^{-1} m^{-1}$ is the electrical constant
-- h = 6.626 x $10^{-34}$ J s is Planck's constant
-- c = 3 x $10^{8}$ m/s is the speed of light.
+- $m_{e}=9.109 \times 10^{-31}$ m is the mass of an electron
+- $e=1.602 \times 10^{-19}$ C is the charge of a proton (also called the elementary charge)
+- $\varepsilon_{0}=8.854 \times 10^{-12}C V^{-1} m^{-1}$ is the electrical constant
+- h = 6.626 $\times$ $10^{-34}$ J s is Planck's constant
+- c = 3 $\times$ $10^{8}$ m/s is the speed of light.
 
 write the program which assigns the values of the physical constants to variables, and use the variables to calculate the value of Rydberg's constant.
 
