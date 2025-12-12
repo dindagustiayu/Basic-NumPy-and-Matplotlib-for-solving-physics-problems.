@@ -79,4 +79,5 @@ $p=m.v.\gamma, \gamma=\frac{1}{\sqrt{1-\frac{v^{2}}{c^{2}}}}$
 This is actual momentum of any object, but the classical version in exercise a) is a good approximation at "small'velocities.
 Expand your program such that it prints a table with three columns, the third one containing the momentum ad defined in special relativity.
 
+
 ![Einstein Momentum](https://github.com/dindagustiayu/Basic-NumPy-and-Matplotlib-for-solving-physics-problems./blob/main/Sample%20Plots/Einsten_momentum.svg)
