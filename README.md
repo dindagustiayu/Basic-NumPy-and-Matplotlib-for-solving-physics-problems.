@@ -63,3 +63,20 @@ A satellite with mass m = 1200 kg is trapped in the gravity of a black hole. It 
 __Hint__: Use scientific notation '%e' when printing the values, to avoid incredibly large floats. Alternatively, '%g', which picks the best notation for you. Try to limit the number of decimals to a reasonable number.
 
 ![Momentum](https://github.com/dindagustiayu/Basic-NumPy-and-Matplotlib-for-solving-physics-problems./blob/main/Sample%20Plots/Relativistic_colormap.svg)
+
+
+## P5.6 -Relativistic Momentum
+In classical physics, we define the momentum $\mathnormal{p}$ of an object with mass $\mathnormal{m}$ and velocity $\mathnormal{v}$ as 
+
+$p=m \times v$
+
+A satellite with mass m = 1200 kg is trapped in the gravity of a black hole. It accelerates quickly from velocity $v=0$ to $v=0.9c$, where $\mathnormal{c}$ is the speed of light, $c\approx3x10^{8}$ m/s.
+
+In exercise about - Correct Einstein's mistakes, we saw the momentum of an object is defined in special relative;y, which dealswith physics at very large velocities. We defines the momentum as
+
+$p=m.v.\gamma, \gamma=\frac{1}{\sqrt{1-\frac{v^{2}}{c^{2}}}}$
+
+This is actual momentum of any object, but the classical version in exercise a) is a good approximation at "small'velocities.
+Expand your program such that it prints a table with three columns, the third one containing the momentum ad defined in special relativity.
+
+![Einstein Momentum](https://github.com/dindagustiayu/Basic-NumPy-and-Matplotlib-for-solving-physics-problems./blob/main/Sample%20Plots/Einsten_momentum.svg)
