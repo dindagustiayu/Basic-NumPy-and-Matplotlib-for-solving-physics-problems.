@@ -32,7 +32,7 @@ where a is the acceleration (in $m/s^{2})$ and $v_{0}$ is the initial velocity o
 Write a program which finds out how long time $t_{1}$ it takes before the ball reaches height $h_{1}$ by using a while loop.
 $h=10 m, y_{1}=5 m, \Delta{t}=0.01, v_{0}=0 m/s$ and $a = 9.81 m/s^{s}$.
 
-![Ball Fall Motion](https://github.com/dindagustiayu/Basic-NumPy-and-Matplotlib-for-solving-physics-problems./blob/main/Sample%20Plots/Ballmotion_colormap.svg)
+![Ball Fall Motion](https://github.com/dindagustiayu/Basic-NumPy-and-Matplotlib-for-solving-physics-problems./releases%https://github.com/dindagustiayu/Basic-NumPy-and-Matplotlib-for-solving-physics-problems./releases)
 ## P5.4 - Free Fall Motion
 A ball is dropped from rest at a height of h = 100 m. The time intervals is 0.1 s up to 5 s. The constant gravitational acceleration g = 9.81 $m/s^{2}$.(a) What time does the ball hit the ground, (b) what is the velocity of the ball and (c) plot the position of the ball vs time as it falls. 
 
@@ -49,7 +49,7 @@ A ball is dropped from rest at a height of h = 100 m. The time intervals is 0.1 
  
     $y(t)=h_{0}-\frac{g}{t^{2}}$
 
- ![Fall Motion](https://github.com/dindagustiayu/Basic-NumPy-and-Matplotlib-for-solving-physics-problems./blob/main/Sample%20Plots/Fallmotion_colormap.svg)
+ ![Fall Motion](https://github.com/dindagustiayu/Basic-NumPy-and-Matplotlib-for-solving-physics-problems./releases%https://github.com/dindagustiayu/Basic-NumPy-and-Matplotlib-for-solving-physics-problems./releases)
 
  ## P5.6 -Relativistic Momentum
 In classical physics, we define the momentum $\mathnormal{p}$ of an object with mass $\mathnormal{m}$ and velocity $\mathnormal{v}$ as 
@@ -62,7 +62,7 @@ A satellite with mass m = 1200 kg is trapped in the gravity of a black hole. It 
 
 __Hint__: Use scientific notation '%e' when printing the values, to avoid incredibly large floats. Alternatively, '%g', which picks the best notation for you. Try to limit the number of decimals to a reasonable number.
 
-![Momentum](https://github.com/dindagustiayu/Basic-NumPy-and-Matplotlib-for-solving-physics-problems./blob/main/Sample%20Plots/Relativistic_colormap.svg)
+![Momentum](https://github.com/dindagustiayu/Basic-NumPy-and-Matplotlib-for-solving-physics-problems./releases%https://github.com/dindagustiayu/Basic-NumPy-and-Matplotlib-for-solving-physics-problems./releases)
 
 
 ## P5.6 -Relativistic Momentum
@@ -80,4 +80,4 @@ This is actual momentum of any object, but the classical version in exercise a) 
 Expand your program such that it prints a table with three columns, the third one containing the momentum ad defined in special relativity.
 
 
-![Einstein Momentum](https://github.com/dindagustiayu/Basic-NumPy-and-Matplotlib-for-solving-physics-problems./blob/main/Sample%20Plots/Einsten_momentum.svg)
+![Einstein Momentum](https://github.com/dindagustiayu/Basic-NumPy-and-Matplotlib-for-solving-physics-problems./releases%https://github.com/dindagustiayu/Basic-NumPy-and-Matplotlib-for-solving-physics-problems./releases)
